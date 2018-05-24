@@ -155,10 +155,9 @@ PRODUCT_PACKAGES += \
     vendor.display.config@1.0 \
     vendor.display.config@1.0_vendor
 
-# Doze mode & XiaomiParts
+# Doze mode
 PRODUCT_PACKAGES += \
-    XiaomiDoze \
-    XiaomiParts
+    XiaomiDoze
 
 # DRM
 PRODUCT_PACKAGES += \
